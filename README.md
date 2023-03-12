@@ -41,4 +41,3 @@ Moreover, this project has enabled me to obtain a mass recommendation of songs a
 
 This project has also created two actionable next steps. First, I created a script that enables me to automate playlist creations by converting .csv recommendation files into a Spotify playlist. 
 
-Second, I have also productionized a version of this model at http://www.whatspopping.xyz/. If curious, please give it a try! :)
